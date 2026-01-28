@@ -1,12 +1,21 @@
+<!-- ===== HERO SECTION ===== -->
 <h1 align="center">Shaik Baji</h1>
 
 <p align="center">
-<strong>AI & ML Engineer (in progress)</strong> • <strong>IoT Systems Builder</strong>
+  <img 
+    src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code&
+    size=18&
+    pause=1000&
+    center=true&
+    vCenter=true&
+    width=600&
+    lines=AI+%26+ML+Engineer+in+the+Making;IoT+Systems+Builder;Turning+Sensors+into+Systems;Quality+over+Quantity"
+    alt="Typing SVG" />
 </p>
 
 <p align="center">
-I build software that talks to the real world — sensors, data, users, and logic.<br>
-Focused on practical systems, not toy demos.
+Building software that interacts with the <strong>real world</strong> — sensors, data, users, and logic.
 </p>
 
 <p align="center">
@@ -23,96 +32,15 @@ Focused on practical systems, not toy demos.
 
 ---
 
+<!-- ===== DIVIDER ===== -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656954-5a8d4f3f-6d1a-4d8b-b2d8-bb1f9c59a4a0.gif" width="300">
+</p>
+
 ## 🧠 What I Actually Work On
 
-- Machine Learning with **real-world datasets**, not synthetic examples  
-- IoT systems combining **hardware + backend + UI**
-- Building applications that are **usable in low-resource environments**
-- Clean system design over over-engineered features
-
----
-
-## 🚀 Selected Projects
-
-### 🌾 **AgriTrade — Agricultural Trading App**
-A Flutter-based platform that enables structured, transparent trade between farmers and retailers.  
-Designed with **low-literacy users** in mind using voice-assisted workflows.
-
-**Key Features**
-- OTP-based authentication
-- Simple UI for rural users
-- Secure cloud backend
-
-**Tech Stack**
-`Flutter` `Firebase` `Twilio`
-
-🔗 Repository:  
-https://github.com/BAJI-761/AGRI_TRADE_APP
-
----
-
-### 🅿️ **IoT-Based Smart Parking System**
-A hardware-backed parking solution for real-time slot detection and vehicle authentication.  
-Validated through simulation before hardware deployment.
-
-**Key Features**
-- Vehicle authentication using RFID
-- Live slot availability
-- Logic-first system design
-
-**Tech Stack**
-`ESP32` `RFID` `Ultrasonic Sensors` `Wokwi`
-
-🔗 Repository:  
-https://github.com/tellapallyakhil/Excel_project
-
----
-
-### 🫀 **IoT Heartbeat Monitoring System**
-A real-time health monitoring setup focused on elderly care.
-
-**Key Features**
-- Live pulse monitoring
-- Microcontroller-based design
-- Extendable to cloud dashboards
-
-**Tech Stack**
-`ESP8266 / ESP32` `Pulse Sensor` `IoT`
-
----
-
-## 🛠 Core Skills & Tools
-
-**Programming & ML**
-- Python
-- Machine Learning
-- Data Handling & Visualization
-
-**App & Backend**
-- Flutter
-- Firebase
-- REST APIs
-
-**IoT & Hardware**
-- ESP32 / ESP8266
-- Sensors (RFID, Ultrasonic, Pulse)
-- Simulation & prototyping
-
-**Dev Workflow**
-- Git & GitHub
-- Modular project structuring
-
----
-
-## 🎯 Current Focus
-
-- Strengthening **system design thinking**
-- Building **fewer projects**, but with:
-  - clearer problem statements  
-  - cleaner architecture  
-  - real deployment considerations  
-
-<p align="center">
-<strong>Quality over quantity.</strong><br>
-<strong>Proof over claims.</strong>
-</p>
+```txt
+• Machine Learning with real datasets (not toy demos)
+• IoT systems that combine hardware + backend + UI
+• Systems designed for low-resource environments
+• Clean architecture > feature overload
